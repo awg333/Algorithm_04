@@ -9,9 +9,9 @@ Model 1 : 3 Layers with 1 Convolution Layer
 
 3. Test Accuracy
 ![modelnum1_3](https://user-images.githubusercontent.com/45807988/83399229-d44c0900-a43b-11ea-9415-174f748268d1.jpg)
-![modelnum1_4](https://user-images.githubusercontent.com/45807988/83399231-d4e49f80-a43b-11ea-98ed-52d6748a570f.jpg)
 
 4. Images and corresponding probability that predicted Right
+![modelnum1_4](https://user-images.githubusercontent.com/45807988/83399231-d4e49f80-a43b-11ea-98ed-52d6748a570f.jpg)
 ![modelnum1_5](https://user-images.githubusercontent.com/45807988/83399233-d57d3600-a43b-11ea-9447-8a84568f4f86.jpg)
 
 5. Images and corresponding probability that predicted Wrong
@@ -26,9 +26,9 @@ Model 2 : 5 Layers with 2 Convolution layer
 
 3. Test Accuracy
 ![modelnum2_3](https://user-images.githubusercontent.com/45807988/83399239-d6ae6300-a43b-11ea-9d23-f235ac6fa5aa.jpg)
-![modelnum2_4](https://user-images.githubusercontent.com/45807988/83399240-d6ae6300-a43b-11ea-9d2e-522d20bed263.jpg)
 
 4. Images and corresponding probability that predicted Right
+![modelnum2_4](https://user-images.githubusercontent.com/45807988/83399240-d6ae6300-a43b-11ea-9d2e-522d20bed263.jpg)
 ![modelnum2_5](https://user-images.githubusercontent.com/45807988/83399241-d746f980-a43b-11ea-951b-44bd2db3f44b.jpg)
 
 5. Images and corresponding probability that predicted Wrong
@@ -44,9 +44,9 @@ Model 3 : 7 Layers with 4 Convolution layer
 
 3. Test Accuracy
 ![modelnum3_3](https://user-images.githubusercontent.com/45807988/83399248-d8782680-a43b-11ea-99be-493b611ada63.jpg)
-![modelnum3_4](https://user-images.githubusercontent.com/45807988/83399250-d8782680-a43b-11ea-86cb-bb64b181ae7c.jpg)
 
 4. Images and corresponding probability that predicted Right
+![modelnum3_4](https://user-images.githubusercontent.com/45807988/83399250-d8782680-a43b-11ea-86cb-bb64b181ae7c.jpg)
 ![modelnum3_5](https://user-images.githubusercontent.com/45807988/83399251-d910bd00-a43b-11ea-9ab4-4dde08505f63.jpg)
 
 5. Images and corresponding probability that predicted Wrong
