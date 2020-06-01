@@ -25,6 +25,7 @@ Model 2 : 5 Layers with 2 Convolution layer
 ![modelnum2_2](https://user-images.githubusercontent.com/45807988/83399237-d615cc80-a43b-11ea-96da-68e4716e0159.jpg)
 
 3. Test Accuracy
+
 ![modelnum2_3](https://user-images.githubusercontent.com/45807988/83399239-d6ae6300-a43b-11ea-9d23-f235ac6fa5aa.jpg)
 
 4. Images and corresponding probability that predicted Right
